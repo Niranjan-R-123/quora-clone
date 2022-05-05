@@ -1,2 +1,3 @@
 # quora-clone
-Questioning and answers website platform for students
+projects crashed please do not refer
+      thank you
