@@ -1,8 +1,8 @@
-<!-- The application is crashing, but I want the error to be handled,
+The application is crashing, but I want the error to be handled,
 my back end server is crashing
 and the modules ,materials are not properly installed except this all are fine
 
- -->
+
 
 
 This project was bootstrapped with [Create React App] ,using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
